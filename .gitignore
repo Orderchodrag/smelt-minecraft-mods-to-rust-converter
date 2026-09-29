@@ -1,0 +1,6 @@
+/target
+/app/dist
+*.hnmod
+*.hmod
+.DS_Store
+/release/

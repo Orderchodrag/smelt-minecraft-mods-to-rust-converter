@@ -1,0 +1,4 @@
+# The GitHub "About" box.
+repository:
+  description: "Point Smelt at a Java mod jar and it starts the Rust port for Horizon: crates, traits and a build that runs. Unfinished parts are marked, so you know exactly what is left."
+  topics: minecraft, minecraft-mods, horizon, rust, porting, fabric, neoforge, cli
