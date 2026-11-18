@@ -197,3 +197,7 @@ NeoForge and Fabric today. Quilt mods that only use the Fabric API usually work.
 Smelt is [MIT](LICENSE) licensed. The bundled fonts, Geist and Pixelify Sans, are under the SIL Open Font License 1.1.
 
 Minecraft is a trademark of Mojang Synergies AB. Smelt isn't an official Minecraft product and isn't approved by or associated with Mojang or Microsoft.
+
+---
+
+Reviewed with [Claude](https://claude.ai) — the AI assistant from Anthropic.
